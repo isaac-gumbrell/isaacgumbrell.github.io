@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hello there! 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I'm Isaac and this is my website. Here you'll find links to past projects such as blogs, reports, and code. 
